@@ -1,0 +1,44 @@
+body{
+    background-color: #54426B;
+}
+
+img{
+    width: 100px;
+    height: 300px;
+
+}
+
+h2{
+    color: white;
+}
+
+
+p{
+    text-align: center;
+    color: pink;
+}
+
+
+ul{
+    color: skyblue;
+}
+
+li{
+    color:green;
+}
+
+p{
+    line-height: normal;
+}
+
+p{
+    letter-spacing: normal;
+}
+
+ol{
+    list-style-type: lower-greek;
+}
+
+p{
+    text-indent: 10%
+}

@@ -42,3 +42,21 @@ ol{
 p{
     text-indent: 10%
 }
+
+div {
+    font-style: italic;
+}
+
+form{
+    background: indigo;
+}
+
+#desserts{
+    background-color: black;
+}
+
+.pop{
+    background-color: black;
+}
+
+

@@ -1,0 +1,44 @@
+body{
+    border: dotted 4px black;
+    margin: 10px;
+    padding: 25px;
+
+}
+
+p{
+    border: dotted 10px green;
+    padding-top: 30px;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+
+#relative{
+    margin-left: 20px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 100px;
+    position: relative;
+    top: 100px;
+    right: 100px;
+
+}
+
+.emotions{
+    height: 100px;
+}
+
+.things{
+    width: 50%;
+    position: relative;
+    left: 20px;
+    down: 50px;
+
+}
+
+.music{
+    width: 200px;
+    padding: 25px;
+    border: 25px solid purple;
+}

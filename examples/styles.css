@@ -17,10 +17,12 @@ ul{
 
 li{
     color:green;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p{
     line-height: normal;
+    font-family: 'Indie Flower', cursive;
 }
 
 p{
@@ -29,6 +31,7 @@ p{
 
 ol{
     list-style-type: lower-greek;
+    font-family: 'Indie Flower', cursive;
 }
 
 p{

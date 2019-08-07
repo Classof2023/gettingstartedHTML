@@ -27,6 +27,7 @@ p{
 
 p{
     letter-spacing: normal;
+    background-color: blanchedalmond;
 }
 
 ol{
@@ -36,6 +37,7 @@ ol{
 
 p{
     text-indent: 10%
+
 }
 
 div {
@@ -67,7 +69,7 @@ form{
 }
 
 #absolute{
-    background-color: aqua;
+    background-color: brown;
 }
 
 #sticky{
@@ -114,6 +116,3 @@ form{
 
 
 
-body{
-    background-color: skyblue;
-}
